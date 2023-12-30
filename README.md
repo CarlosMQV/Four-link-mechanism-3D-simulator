@@ -1,6 +1,6 @@
 # Four-link-mechanism-3D-simulator
 
-**This is a 3D simulator of a 4-link mechanism, in which you have defined the centers of rotation and three positions of point P. You find the length of the links and a very cool animation!**
+**This is a 3D simulator of a 4-link mechanism, in which you have defined the centers of rotation and three positions of point P. You will get the length of the links and a very cool animation!**
 
 This is the simulator of a four-bar mechanism in a container that emulates a robot that collects garbage. 3 points are defined (P1, P2 and P3) through which point P (end of the pick-up) will pass and the centers where the rotating links will be.
 
