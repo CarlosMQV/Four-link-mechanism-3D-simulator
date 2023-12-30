@@ -22,23 +22,24 @@ So good luck and have fun!
 
 Suggested data:
 
-P1x = -15.95
-P1y = 0
-P2x = -14.51
-P2y = 22.18
-P3x = 4.62
-P3y = 32.12
-O2x = 4.928
-O2y = 8.517
-O4x = 5.15
-O4y = 11.7
-alpha2 = -30
-alpha3 = -80
+- P1x = -15.95
+- P1y = 0
+- P2x = -14.51
+- P2y = 22.18
+- P3x = 4.62
+- P3y = 32.12
+- O2x = 4.928
+- O2y = 8.517
+- O4x = 5.15
+- O4y = 11.7
+- alpha2 = -30
+- alpha3 = -80
 
-Authors:	Alvarez Sanchez Arturo Estefano (https://github.com/4rturo4Lvarez)
-      		Querevalú Vásquez Carlos Marcelo (https://github.com/CarlosMQV)
+Authors:
+- Alvarez Sanchez Arturo Estefano (https://github.com/4rturo4Lvarez)
+- Querevalú Vásquez Carlos Marcelo (https://github.com/CarlosMQV)
 
-
+""
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
       ,"                      ,"|        ,"        ,"  |
@@ -57,3 +58,4 @@ Authors:	Alvarez Sanchez Arturo Estefano (https://github.com/4rturo4Lvarez)
  / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'
+""
