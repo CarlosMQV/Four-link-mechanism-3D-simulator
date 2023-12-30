@@ -14,7 +14,7 @@ On the other hand, a window was implemented in tkinter to enter the data, and it
 
 Using the right and left arrow keys on the keyboard, the system rotates around its y axis. With the up and down arrows, the mechanism is activated and point P rises or falls according to the conditions initially specified.
 
-Also attached are some scribbled images that were made during the development of the program. The entire program was done in one day (the day I'm writing this), so it would be great if maybe you could optimize it. If you did, feel free to let me know and send me a link to your github repository to review it with some small comments to understand it (I'm not the best at understanding other people's code :p)
+Also attached are some scribbled images that were made during the development of the program. The entire program was done in one day (the day I'm writing this), so it would be great if maybe you could optimize it. If you did, feel free to let me know and send me a mail (carlosmarceloqv@gmail.com) with a link to your github repository to review it with some small comments to understand it (I'm not the best at understanding other people's code :p)
 
 So good luck and have fun!
 
