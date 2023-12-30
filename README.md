@@ -39,6 +39,7 @@ Authors:
 - Alvarez Sanchez Arturo Estefano (https://github.com/4rturo4Lvarez)
 - Querevalú Vásquez Carlos Marcelo (https://github.com/CarlosMQV)
 
+Note: We use Norton's book for several calculations.
 
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
@@ -59,3 +60,4 @@ Authors:
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'
 
+Some ASCII Art :D
